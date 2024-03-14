@@ -1,1 +1,1 @@
-oop
+Abstract class and interface
